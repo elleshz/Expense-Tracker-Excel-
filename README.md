@@ -12,7 +12,7 @@ Developed an excel-based finance dashboard with automated reporting, and interac
 - Collected daily transaction data
 - Cleaned and structured using Excel Tables
 - Analyzed using Pivot Tables
-- Visualized using charts and slicers
+- Visualized using a donut chart and slicers
 - Applied budget rules with conditional formatting
 
 ## Dashboard Preview
