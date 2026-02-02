@@ -15,6 +15,9 @@ Developed an excel-based finance dashboard with automated reporting, and interac
 - Visualized using charts and slicers
 - Applied budget rules with conditional formatting
 
+## Dashboard Preview
+https://github.com/elleshz/Expense-Tracker-Excel-/blob/main/Dashboard-Expense.png
+
 ## Insights & Key Findings
 In March 2025, total expenses amounted to RM4,820.83.
 
