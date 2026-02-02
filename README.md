@@ -1,5 +1,5 @@
 # Expense-Tracker-Excel
-Developed an excel-based finance dashboard with automated reporting, and interactive filters using Pivot Tables and advanced formula
+Developed an Excel-based finance dashboard with automated reporting, interactive filters using Pivot Tables, and advanced formulas
 
 ## Features
 - Transactions for March 2025
